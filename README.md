@@ -27,9 +27,6 @@ as a variable. Thus words more prevalent in some years, strongly linked to a pec
 prediction of the year.
 
 
-Repartition of the years
-
-
 ![year distribution](/years_distribution.png)
 
 ![train test difference](/train_test_difference.png)
